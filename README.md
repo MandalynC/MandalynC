@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌼 Hey, I'm Mandy
 
-<!--
-**MandalynC/MandalynC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Who am I?
+I'm a Student hopefully soon to be a Developer, I'm passionate about UI/UX work
+I love building projects that can make an impact in the world for the better
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently looking for projects to collaborate on or in the process of searching for my next solo project
+- Exploring AI prompting certifications and exploring out more to AI tools, such as; Gemini, Copilot and Claude 
+
+## 🛠️ Tools & Languages I Use
+| Category | Tools |
+|-----------|-------|
+| Languages | JavaScript, Python, HTML & CSS, (WIP) Swift |
+| Frameworks | React, Node.js, Vue.js, Angular |
+| Design | Adobe Creative Cloud (Photoshop, illustrator, InDesign)  |
+| Productivity | VS code, PyCharm, Trello, Notion,  |
+
+## 🌸 Fun Fact
+I love listening to music or just having some sort of ambient noise on while I work, it helps me be more productive.

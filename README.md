@@ -15,7 +15,7 @@ I love building projects that can make an impact in the world for the better
 | Languages | JavaScript, Python, HTML & CSS, (WIP) Swift |
 | Frameworks | React, Node.js, Vue.js, Angular |
 | Design | Adobe Creative Cloud (Photoshop, illustrator, InDesign)  |
-| Productivity | VS code, PyCharm, Trello, Notion,  |
+| Productivity | VS code, PyCharm, Trello, Notion  |
 
 ## 🌸 Fun Fact
 I love listening to music or just having some sort of ambient noise on while I work, it helps me be more productive.
